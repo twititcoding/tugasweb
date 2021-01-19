@@ -1,0 +1,49 @@
+body {
+    background-color: #27b2d6;
+}
+
+.navbar-inverse {
+    background-color: #27b2d6;
+}
+
+.image {
+    display: block;
+    margin-left: auto;
+    width: 50%;
+}
+
+.image2 {
+    display: block;
+    float: left;
+    width: 300px;
+    position: absolute;
+    
+}
+
+p {
+    margin-top: 10px;
+}
+
+.box {
+    height: 605px;
+    width: 570px;
+    padding: 0 15px 0 15px;
+    min-height: auto;
+    max-width: 50%;
+    min-width: auto;
+}
+
+#panel,#panel1,#panel2,#panel3 {
+    display: none;
+   
+}
+.about{
+    text-align: center;
+}
+.copyright{
+    text-align: center;
+}
+.faq h1{
+    text-align: center;
+}
+
